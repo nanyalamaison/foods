@@ -9,3 +9,6 @@ font awesome
 css
 html
 desktop first approach
+
+
+i am using js to create a slideshow of different food items. 
