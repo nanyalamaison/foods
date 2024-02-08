@@ -1,3 +1,11 @@
 # foods
 
-this website will be a display of different foods you can buy.
+this website will be a display of different foods. 
+it will have different sections. 
+
+#what i'll use 
+
+font awesome
+css
+html
+
