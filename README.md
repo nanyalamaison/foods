@@ -8,4 +8,4 @@ it will have different sections.
 font awesome
 css
 html
-
+desktop first approach
